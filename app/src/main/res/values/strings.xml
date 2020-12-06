@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Questions</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="view_progress">View Progress</string>
+    <string name="question_mpu1">Adakah nama Yang Di-Pertuan Agong ke-15 Sultan Muhammad V?</string>
+    <string name="question_mpu2">Gelaran Ketua Negeri bagi Sabah, Sarawak, Melaka dan Pulau Pinang ialah Ketua Menteri</string>
+    <string name="question_mpu3">Kerajaan Persekutuan Malaysia mengamalkan sistem demokrasi berparlimen</string>
+    <string name="question_mpu4">Konsep Raja Berperlembagaan membawa maksud memecat perdana menteri</string>
+    <string name="question_mpu5">Kabinet merupakan organisasi tertinggi dalam pembentukan dasar negara</string>
+    <string name="question_maths1">1+1=2</string>
+    <string name="question_maths2">2*2=9</string>
+    <string name="question_maths3">3*3=9</string>
+    <string name="question_maths4">5/1=2</string>
+    <string name="question_maths5">10*10=100</string>
+</resources>
